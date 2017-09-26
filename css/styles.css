@@ -1,23 +1,43 @@
-body.page0{
+body.page0 {
     background-image: url("../image/image00-01.jpg");
     background-size: cover;
 }
-body.page1{
+
+body.page1 {
     background-color: lightseagreen;
 }
-h1{
-    font-family: "Bookman Old Style";
 
+body.page2 {
+    background-color: #8686D6;
 }
-p{
+
+body.page3 {
+    background-color: #CFCF3E;
+}
+
+body.page4 {
+    background-color: #E972CF;
+}
+
+body.page5 {
+    background-color: #693C3C;
+}
+
+h1 {
+    font-family: "Bookman Old Style";
+}
+
+p {
     font-family: "Arial";
     font-size: 14pt;
 }
-ol{
+
+ol {
     font-family: "Arial";
     font-size: 14pt;
 }
-img{
+
+img {
     height: 100px;
     width: 150px;
     alt: "";
