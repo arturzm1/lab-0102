@@ -1,0 +1,26 @@
+body.page0{
+    background-image: url("../image/image00-01.jpg");
+    background-size: cover;
+}
+body.page1{
+    background-color: lightseagreen;
+}
+h1{
+    font-family: "Bookman Old Style";
+
+}
+p{
+    font-family: "Arial";
+    font-size: 14pt;
+}
+ol{
+    font-family: "Arial";
+    font-size: 14pt;
+}
+img{
+    height: 100px;
+    width: 150px;
+    alt: "";
+    text-align: "left";
+    margin-left: 1;
+}
