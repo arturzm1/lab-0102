@@ -23,6 +23,10 @@ body.page5 {
     background-color: #693C3C;
 }
 
+body.page6 {
+    background-color: rgba(10, 172, 194, 0.14)
+}
+
 h1 {
     font-family: "Bookman Old Style";
 }
